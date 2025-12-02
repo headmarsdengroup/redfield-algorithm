@@ -2,6 +2,11 @@
 
 - A quantum algorithm to simulate the Redfield dynamics of a single molecule magnets.
 
+## Dependencies
+
+-  **Python:**
+  - NumPy == 1.26.4
+  - qiskit == 1.2.2
 
 ## Repository structure
 
