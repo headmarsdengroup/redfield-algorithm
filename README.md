@@ -4,7 +4,7 @@
 
 ## Dependencies
 
--  **Python:**
+- **Python:**
   - NumPy == 1.26.4
   - qiskit == 1.2.2
 
