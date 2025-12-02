@@ -4,9 +4,9 @@
 
 ## Dependencies
 
-- **Python:**
-  - NumPy == 1.26.4
-  - qiskit == 1.2.2
+- **Python Packages**
+  - numpy==1.26.4
+  - qiskit==1.2.2
 
 ## Repository structure
 
